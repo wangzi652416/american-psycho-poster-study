@@ -19,6 +19,8 @@
 
 电影主题资料：[Mary Harron / Fresh Air 访谈](https://freshairarchive.org/segments/film-director-mary-harron-discusses-american-psycho)。
 
+身份与误认：[Guinevere Turner / On Story 访谈，2025](https://www.pbs.org/video/script-to-screen-american-psycho-os8wmr/)。页面关于身份竞争的表述为结合影片与访谈的分析；“身份成为武器”为对海报的解读，不代指已核实的设计师自述。
+
 轮播实现改编自 [Amicro CardCoverFlow](https://github.com/Subhan-code/Amicro--Micro-transitions-)；MIT 许可，版权归 SYED SUBHAN UDDIN。
 
 字体：Bodoni Moda、Noto Sans SC、Noto Serif SC（SIL Open Font License）；朝华标题 B（特里王 / 活字库，官网公开“免商可修改”许可）。许可原文与说明见 THIRD-PARTY-NOTICES.txt。
